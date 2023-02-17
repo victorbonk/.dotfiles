@@ -1,0 +1,3 @@
+pane	0	0	1	:*	0	pop-os	:/home/victor	1	zsh	:
+window	0	0	:zsh	1	:*	b05d,88x32,0,0,0	:
+state	0	
